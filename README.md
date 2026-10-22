@@ -1,4 +1,4 @@
-# Tented️ — Private Couple Chat Web App
+# Tented️ 2 — Private Couple Chat Web App
 
 > **An exclusive, end-to-end private sanctuary for two.**  
 > Built with HTML5, CSS3, Vanilla JavaScript (ES6+), and Supabase.  
